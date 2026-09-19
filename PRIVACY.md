@@ -1,9 +1,9 @@
-# Privacy Policy: [Pico2Alerts] Personal Alerts
+# Privacy Policy: Pico2Alerts Personal Alerts
 
 Last updated: September 18, 2026
 
 ## Overview
-[Pico2Alerts] is a personal, single-user alert project. Text messages are sent only to the project owner's own mobile number, and only when a monitored condition is triggered.
+Pico2Alerts is a personal, single-user alert project. Text messages are sent only to the project owner's own mobile number, and only when a monitored condition is triggered.
 
 ## Information we collect
 The only information collected is the owner's mobile phone number, which the owner enters into the project's configuration to enable alerts. No other personal information is collected from anyone.
@@ -21,4 +21,4 @@ Reply STOP at any time to stop receiving messages. Reply HELP for assistance.
 The phone number is stored only in the project's private configuration and is not published or sold.
 
 ## Contact
-[craig.brooks@cox.net]
+craig.brooks@cox.net
