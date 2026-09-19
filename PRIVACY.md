@@ -3,7 +3,7 @@
 Last updated: September 18, 2026
 
 ## Overview
-[Project Name] is a personal, single-user alert project. Text messages are sent only to the project owner's own mobile number, and only when a monitored condition is triggered.
+[Pico2Alerts] is a personal, single-user alert project. Text messages are sent only to the project owner's own mobile number, and only when a monitored condition is triggered.
 
 ## Information we collect
 The only information collected is the owner's mobile phone number, which the owner enters into the project's configuration to enable alerts. No other personal information is collected from anyone.
