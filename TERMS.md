@@ -18,13 +18,13 @@ Message and data rates may apply.
 Reply STOP at any time to cancel. You will receive one confirmation message and no further messages after that. To resume, reply START.
 
 ## Help
-Reply HELP for assistance, or contact [your email].
+Reply HELP for assistance, or contact [Craig.brooks@cox.net].
 
 ## Carrier disclaimer
 Carriers are not liable for delayed or undelivered messages.
 
 ## Privacy
-Your mobile number and opt-in data are never shared with third parties or affiliates for marketing or promotional purposes. See the Privacy Policy: [link to your privacy page].
+Your mobile number and opt-in data are never shared with third parties or affiliates for marketing or promotional purposes. See the Privacy Policy: [https://github.com/cbrooksokc/pico2alerts/blob/main/PRIVACY.md].
 
 ## Changes to these terms
 These terms may be updated from time to time. The "Last updated" date above reflects the latest revision.
